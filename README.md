@@ -1,4 +1,4 @@
-![Screenshot 2025-06-03 133833](https://github.com/user-attachments/assets/d31c86f8-91fb-4837-9a4f-8a81bddaf23a)
+
 # Wireshark Task 5 - Cyber Security Internship
 
 This repository contains my submission for *Task 5* of the Cyber Security Virtual Internship.
@@ -20,3 +20,5 @@ This repository contains my submission for *Task 5* of the Cyber Security Virtua
 
 - Wireshark
 - Google Chrome
+
+  ![Screenshot 2025-06-03 133833](https://github.com/user-attachments/assets/d31c86f8-91fb-4837-9a4f-8a81bddaf23a)
